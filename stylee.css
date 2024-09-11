@@ -1,0 +1,47 @@
+body{ 
+    background-color: aqua;
+}
+
+
+
+img{
+    width: 100px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+li{
+    padding: 10px;
+}
+input{
+    display: block;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 8px 15px;
+}
+button{
+    background-color: black;
+    color: white;
+   margin: 10px;
+   padding: 8px 10px;
+   border-radius: 5px;
+   cursor: pointer;
+
+
+}
+button:hover{
+   
+opacity: 0.5;
+}
